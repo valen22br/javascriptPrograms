@@ -1,7 +1,7 @@
 
 /**
  * Sumary.
- * mask to find a seguence of consonants and/or vowels in a string.
+ * mask to find a sequence of consonants and/or vowels in a string.
  * Description.
  * functions that returns the amount of times the mask was found on the myString. 
  * 
